@@ -10,7 +10,7 @@ language: 'en-uk'
 name: 'Finding The Way Home'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
-short_url: 'katieball.me/jasper//'
+short_url: 'roachhd.github.io/jasper//'
 google_analytics: UA-google-1
 disqus: roachhd
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -45,7 +45,7 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyller
+username: roachhd
 repo: jasper
 branch: master
 relative_source: ../jasper/
